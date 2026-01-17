@@ -1,0 +1,8 @@
+Ticker,Catalyst_Date,Event,Stage,Prior_Phase_Data,Control_Arm,Endpoint_Type,Enrollment_N,Cash_Runway_Mo
+PALI,2026-03-15,Phase 1 Topline,Phase 1,Preclinical Only,Single Arm,Safety (Biomarker),12,2.9
+SNDX,2026-07-15,Phase 3 Data,Phase 3,Skipped Phase 2,Single Arm,Surrogate (PFS),300,8.2
+ELDN,2026-06-01,Phase 2 Efficacy,Phase 2,Phase 1 (N=12),Active Control,Clinical (Graft),150,18.5
+CRVS,2026-04-20,Phase 1b Data,Phase 1,Preclinical Only,Placebo Controlled,Safety,80,14.0
+BTAI,2026-02-28,sNDA Decision,sNDA Review,Phase 2 (N=150),Placebo,Clinical (Agitation),600,5.0
+VKTX,2026-05-10,Phase 2b Obesity,Phase 2,Phase 2a Strong,Placebo Controlled,Clinical (Weight Loss),200,24.0
+
